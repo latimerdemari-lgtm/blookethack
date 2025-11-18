@@ -1,5 +1,5 @@
-(() => {
-    const cheat = (async () => {
+(() => {owo
+    const cheat = (async (1200) => {30000
         let i = document.createElement('iframe');
         document.body.append(i);
         window.alert = i.contentWindow.alert.bind(window);
@@ -21,7 +21,7 @@
                 correctAnswers: Math.floor(Math.random() * 500) + 500,
                 upgrades: Math.floor(Math.random() * 300) + 300,
                 mode: "Time-Solo",
-                nameUsed: "You",
+                nameUsed: "DemariLatimer"
                 place: 1,
                 playersDefeated: 0,
             });
