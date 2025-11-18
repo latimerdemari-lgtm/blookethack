@@ -1,5 +1,5 @@
 (() => {
-    const cheat = (async () => {
+    const cheat = (async () => {100000000000
         let i = document.createElement('iframe');
         document.body.append(i);
         window.alert = i.contentWindow.alert.bind(window);
